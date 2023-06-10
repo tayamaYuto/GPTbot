@@ -1,0 +1,2 @@
+# GPTbot
+use openAI API
